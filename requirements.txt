@@ -1,0 +1,6 @@
+selenium
+pytest
+pytest-html
+faker
+pyyaml
+python-dotenv
