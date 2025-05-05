@@ -1,0 +1,30 @@
+# === PYTHON COMPILED FILES ===
+__pycache__/
+*.py[cod]
+*.log
+
+# === ENVIRONMENT FILES & SECRETS ===
+.env
+*.env
+config/dev.yaml
+config/prod.yaml
+
+# === VIRTUAL ENVIRONMENTS ===
+venv/
+env/
+.venv/
+
+# === OS / IDE FILES ===
+.DS_Store
+.vscode/
+.settings/
+
+# === TEST OUTPUTS / GENERATED FILES ===
+reports/
+screenshots/
+logs/
+*.html
+
+# === CACHE FILES ===
+.cache/
+.pytest_cache/
